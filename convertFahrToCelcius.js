@@ -9,4 +9,4 @@ function convertFahrToCelcius(F) {
     }
 }
 
-convertFahrToCelcius({temp:0});
+convertFahrToCelcius(0);

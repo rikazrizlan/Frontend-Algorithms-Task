@@ -27,4 +27,4 @@ function checkYuGiOh(n) {
     }
 }
 
-checkYuGiOh("fizzbuzz is meh");
+checkYuGiOh(10);
